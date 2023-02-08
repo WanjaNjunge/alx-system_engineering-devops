@@ -7,3 +7,4 @@ ls -al to display current directory contents, including hidden files
 ls -lna is used to lis files on long formart, with user and group IDs displayed numerically and hidden files
 mkdir creates a new directory
 mv is used to move files
+rm to delete a file
