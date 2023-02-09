@@ -8,3 +8,4 @@ a script that adds execute permission to the owner of the file hello, chmod u+x 
 a script that adds execution permission to the owner, the group owner and the other users, to the file hello, chmod ugo+ hello
 a script that sets the permission to the file hello, chmod 007 hello
 chmod 753 hello for task 9
+a script that sets the mode of the file hello the same as olleh’s mode, chmod --reference=olleh hello
