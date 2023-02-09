@@ -7,3 +7,4 @@ a script that creates an empty file called hello, touch hello
 a script that adds execute permission to the owner of the file hello, chmod u+x hello
 a script that adds execution permission to the owner, the group owner and the other users, to the file hello, chmod ugo+ hello
 a script that sets the permission to the file hello, chmod 007 hello
+chmod 753 hello for task 9
