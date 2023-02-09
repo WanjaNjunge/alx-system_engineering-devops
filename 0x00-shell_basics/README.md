@@ -13,3 +13,4 @@ cd - changes the working directory to the previous one
 a script that lists all files
 a script that prints the type of the file name
 ln is used to create a symbolic link
+script that copies all the HTML files from the current working directory to the parent of the working directory
