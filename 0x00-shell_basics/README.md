@@ -10,3 +10,4 @@ mv is used to move files
 rm to delete a file
 rm -r for deleting directories
 cd - changes the working directory to the previous one
+a script that lists all files
