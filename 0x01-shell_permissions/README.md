@@ -13,3 +13,4 @@ a script that adds execute permission to all subdirectories of the current direc
  script that creates a directory called my_dir with permissions 751 in the working directory, mkdir -m 751 my_dir
 Write a script that changes the group owner to school for the file hello, chgrp school hello
 a script that changes the owner to vincent and the group owner to staff for all the files and directories, chown vincent:staff *
+a script that changes the owner and the group owner of _hello to vincent and staff, chown -h vincent:staff _hello
