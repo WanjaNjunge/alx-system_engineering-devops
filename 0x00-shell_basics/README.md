@@ -11,3 +11,4 @@ rm to delete a file
 rm -r for deleting directories
 cd - changes the working directory to the previous one
 a script that lists all files
+a script that prints the type of the file name
