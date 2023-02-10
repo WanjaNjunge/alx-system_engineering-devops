@@ -18,3 +18,4 @@ rm *~ a script that deletes all files in the current working directory that end 
 mkdir creates multiple directories
 a script that moves all files beginning with an uppercase letter to the directory /tmp/u
 ls lists files in a directory
+Create a magic file school.mgc
